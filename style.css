@@ -1,0 +1,45 @@
+body {
+text-align: center;
+}
+
+
+h1 {
+     font-size: 40px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-weight: 300;
+    }
+
+.line {
+height: 6px;
+background-color: black;
+width: 70px;
+margin: 8px auto;
+}
+
+#app {
+    background-color: lightblue;
+}
+
+#juegos {
+    background-color: lightgreen;
+}
+
+#Chatbot {
+    background-color: lightsalmon;
+}
+
+#mycarousel img {
+  height: 300px;
+  margin-top: 35px;  
+}
+
+#mycarousel {
+background-color: lightsteelblue;
+}
+
+.carousel-inner p {
+margin-top: 15px;
+color: white;
+font-size: 20px;
+}
+
